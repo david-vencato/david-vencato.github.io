@@ -17,4 +17,4 @@ This page is intended to:
 
 Whether you're here out of curiosity, academic interest, or by chance, I hope you’ll find something valuable.
 
-Feel free to get in touch.
+Feel free to get in touch, you can contact me at: [{{ site.email }}](mailto:{{ site.email }})
