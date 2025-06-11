@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: David Vencato – PhD Research Fellow in Mathematics
-email:
+email: david.vencato@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mathematician in training, fascinated by patterns and proofs. Currently pursuing a PhD at the University of Oslo. I enjoy sharing my research and making math accessible.
 twitter_username: username
