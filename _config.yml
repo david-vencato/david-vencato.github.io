@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+at# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: David Vencato
+title: David Vencato – PhD Research Fellow in Mathematics
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Mathematician in training, fascinated by patterns and proofs. Currently pursuing a PhD at the University of Oslo. I enjoy sharing my research and making math accessible.
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "David Vencato"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Mathematician in training, fascinated by patterns and proofs. Currently pursuing a PhD at the University of Oslo. I enjoy sharing my research and making math accessible."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
