@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "David Vencato"
   avatar : "/assets/images/brownian_motion.jpg"
-  bio    : "Mathematician in training, fascinated by patterns and proofs. Currently pursuing a PhD at the University of Oslo. I enjoy sharing my research and making math accessible."
+  bio    : "“A beautiful problem, even if you don’t solve it, keeps you company if you think about it from time to time.” — Ennio De Giorgi"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
