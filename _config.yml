@@ -59,6 +59,9 @@ author:
   avatar : "/assets/images/brownian_motion.jpg"
   bio    : "“A beautiful problem, even if you don’t solve it, keeps you company if you think about it from time to time.” — Ennio De Giorgi"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "david.vencato@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/david-vencato"
