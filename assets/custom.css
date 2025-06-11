@@ -1,6 +1,6 @@
 .author-profile .author-avatar img {
-  width: 200px;       /* aumenta larghezza */
-  height: auto;       /* mantiene proporzioni */
-  border-radius: 15px; /* poco arrotondata, meno tonda */
-  object-fit: cover;  /* immagine ben centrata e riempita */
+  width: 250px !important;   /* ingrandisce */
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
 }
