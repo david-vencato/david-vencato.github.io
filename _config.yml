@@ -68,7 +68,7 @@ author:
 
 footer:
   links:
-   - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/david-vencato"
     - label: "LinkedIn"
