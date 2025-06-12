@@ -5,4 +5,6 @@ layout: single
 author_profile: true
 ---
 
-others
+
+ A great site for all kinds of NBA statistics:
+- [NBA Stats](https://www.nba.com/stats) –
