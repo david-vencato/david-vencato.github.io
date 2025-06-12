@@ -1,6 +1,9 @@
-.author-avatar img {
-  width: 250px !important;   /* ingrandisce */
-  height: auto;
-  border-radius: 12px;
-  object-fit: cover;
+.author__avatar img {
+  max-width: none !important;
+  width: 250px !important;       /* o la dimensione che preferisci */
+  height: auto !important;
+  border-radius: 5px !important; /* rettangolare con angoli arrotondati */
+  padding: 5px !important;        /* mantieni il padding */
+  border: 1px solid #51555d !important; /* mantieni il bordo */
+  object-fit: cover !important;  /* evita distorsioni */
 }
