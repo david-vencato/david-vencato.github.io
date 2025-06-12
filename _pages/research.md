@@ -6,4 +6,5 @@ author_profile: true
 ---
 
 <!-- Qui puoi iniziare a scrivere qualcosa sul tuo ambito di ricerca -->
-In this section I will share updates on my PhD research in Stochastic Analysis and Applications.
+For now, I have been acknowledged in the following article:
+[Download the article (PDF)](/assets/AAG25_IME.pdf)
