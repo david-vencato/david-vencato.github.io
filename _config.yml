@@ -111,14 +111,3 @@ tag_archive:
 custom_css:
   - /assets/custom.css
 
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Research"
-    url: /research/
-  - title: "Materials"
-    url: /materials/
-  - title: "Others"
-    url: /others/
-  - title: "CV"
-    url: /cv/
