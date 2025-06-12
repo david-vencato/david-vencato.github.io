@@ -102,6 +102,5 @@ defaults:
       layout: single
       author_profile: true
 
-custom_css:
-  - /assets/custom.css
-
+head_custom: |
+  <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
