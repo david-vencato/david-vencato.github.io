@@ -1,10 +1,11 @@
 main:
   - title: "About"
-    url: /
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
- 
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Materials"
+    url: /materials/
+  - title: "Others"
+    url: /others/
+  - title: "CV"
+    url: /cv/
