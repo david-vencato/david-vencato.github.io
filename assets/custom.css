@@ -1,9 +1,14 @@
+.author__avatar {
+  width: 120px !important;
+  height: 80px !important;
+  display: block !important;
+}
+
 .author__avatar img {
-  max-width: none !important;
-  width: 250px !important;       /* o la dimensione che preferisci */
-  height: auto !important;
-  border-radius: 5px !important; /* rettangolare con angoli arrotondati */
-  padding: 5px !important;        /* mantieni il padding */
-  border: 1px solid #51555d !important; /* mantieni il bordo */
-  object-fit: cover !important;  /* evita distorsioni */
+  width: 120px !important;
+  height: 80px !important;
+  border-radius: 10px !important; /* rettangolare con angoli arrotondati */
+  object-fit: cover !important;
+  border: 1px solid #ccc !important; /* o il colore che preferisci */
+  padding: 3px !important;
 }
