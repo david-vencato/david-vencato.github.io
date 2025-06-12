@@ -1,14 +1,29 @@
+/* CSS per ingrandire avatar sidebar e renderlo rettangolare */
+
 .author__avatar {
-  width: 120px !important;
-  height: 80px !important;
-  display: block !important;
+  width: 100px;
+  height: 100px;
+  display: block;
 }
 
 .author__avatar img {
-  width: 120px !important;
-  height: 80px !important;
-  border-radius: 10px !important; /* rettangolare con angoli arrotondati */
-  object-fit: cover !important;
-  border: 1px solid #ccc !important; /* o il colore che preferisci */
-  padding: 3px !important;
+  width: 100px;
+  height: 100px;
+  border-radius: 12px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+
+/* Stili per schermi grandi */
+@media (min-width: 80em) {
+  .author__avatar {
+    width: 120px;
+    height: 120px;
+  }
+
+  .author__avatar img {
+    width: 120px;
+    height: 120px;
+  }
 }
