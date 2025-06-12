@@ -7,4 +7,4 @@ author_profile: true
 
 <!-- Qui puoi iniziare a scrivere qualcosa sul tuo ambito di ricerca -->
 For now, I have been acknowledged in the following article:
-[Download the article (PDF)](/assets/AAG25_IME.pdf)
+<a href="/assets/AAG25_IME.pdf" target="_blank">Download the article (PDF)</a>
