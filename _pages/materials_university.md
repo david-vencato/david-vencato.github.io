@@ -32,7 +32,13 @@ layout: single
   *Professor:* Marco Romito  
   *Academic Year:* 2022/2023  
   *Language:* Italian  
-  📎 <a href="/assets/Final_Report_ML.pdf" target="_blank" rel="noopener noreferrer">Final Report</a> 
+  📎 <a href="/assets/Final_Report_ML.pdf" target="_blank" rel="noopener noreferrer">Final Report</a>
+
+- **Geometry and Differential Topology (University of Pisa)**  
+  *Professor:* Enrico Le Donne  
+  *Academic Year:* 2020/2021 
+  *Language:* Italian  
+  📎 <a href="/assets/GTD_exercises.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a> 
 
 - **Elements of Set Theory (University of Pisa)**  
   *Professor:* Mauro Di Nasso  
