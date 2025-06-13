@@ -28,7 +28,16 @@ layout: single
 
 ## 📝 Courses
 
-- **Elements of Set Theory (University of Pisa)**  
+- **Istituzioni di Geometria (University of Pisa)**  
+  *Professor:* Bruno Martelli  
+  *Academic Year:* 2022/2023  
+  *Language:* Italian  
+  📎 <a href="/assets/ist_geo_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
+  📎 <a href="/assets/ist_geo_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
+  📎 <a href="/assets/ist_geo_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>   
+
+
+- **Istituzioni di Algebra (University of Pisa)**  
   *Professor:* Tamas Szamuely  
   *Academic Year:* 2022/2023  
   *Language:* Italian  
@@ -56,8 +65,5 @@ layout: single
 
 
 
-### Philosophy of Mind
 
-- 📄 [Notes on Dualism and Physicalism](link)
-- 📄 [Lecture-by-Lecture Notes](link)
 
