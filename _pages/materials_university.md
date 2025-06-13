@@ -7,17 +7,20 @@ layout: single
 ## 📄 Major Projects
 
 - **Bachelor’s Thesis (University of Pisa)**  
-  *Title:* Colorazioni di Nodi tramite Quandle  
+  *Title:* Colorazioni di Nodi tramite Quandle
+  *Supervisor:* Prof. Roberto Frigerio
   *Language:* Italian  
   📎 <a href="/assets/bachelor_thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>  
 
 - **Master’s Thesis (University of Pisa)**  
-  *Title:* Exploring the Optimal Reinsurance Problem: Convex Linearization, Optimal Transport and Case Studies  
+  *Title:* Exploring the Optimal Reinsurance Problem: Convex Linearization, Optimal Transport and Case Studies
+  *Supervisors:* Prof. Dario Trevisan and Prof. Hansjoerg Albrecher  
   *Language:* English  
-  📎 <a href="/assets/Masters_Thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+  📎 <a href="/assets/Master_Thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
 - **Semester Project (EPFL)**  
-  *Title:* Some Important Aspects of Sustainable Portfolio Allocation 
+  *Title:* Some Important Aspects of Sustainable Portfolio Allocation
+  *Supervisor:* Prof. Michael Schmutz
   *Language:* English  
   📎 <a href="/assets/Semester_Project.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
