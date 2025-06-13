@@ -36,7 +36,7 @@ layout: single
 
 - **Geometry and Differential Topology (University of Pisa)**  
   *Professor:* Enrico Le Donne  
-  *Academic Year:* 2020/2021 
+  *Academic Year:* 2020/2021  
   *Language:* Italian  
   📎 <a href="/assets/GTD_exercises.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a> 
 
