@@ -26,12 +26,13 @@ layout: single
 
 ---
 
-## 📝 Course Notes
+## 📝 Courses
 
-### Logic
-
-- 📄 <a href="/assets/notes/logic-intro-handwritten.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes – Introduction to Logic</a>
-- 📄 <a href="/assets/notes/formal-methods.pdf" target="_blank" rel="noopener noreferrer">Deductive Systems and Formal Methods</a>
+- **Machine Learning (University of PIsa)**  
+  *Professor:* Marco Romito  
+  *Academic Year:* 2022/2023  
+  *Language:* Italian  
+  📎 <a href="/assets/Final_Report_ML.pdf" target="_blank" rel="noopener noreferrer">Final Report</a> 
 
 ### Philosophy of Language
 
