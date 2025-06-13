@@ -21,16 +21,11 @@ author_profile: true
   .button-darkblue {
     background-color: #001f4d;
   }
-  .button-darkblue:hover {
-    background-color: #003366;
-  }
 
   .button-darkgray {
-    background-color: #333333;
+    background-color: #708090;
   }
-  .button-darkgray:hover {
-    background-color: #4d4d4d;
-  }
+  
 
   .button-container {
     display: flex;
