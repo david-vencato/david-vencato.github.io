@@ -10,36 +10,28 @@ author_profile: true
     display: inline-block;
     padding: 1rem 2rem;
     border-radius: 8px;
+    background-color: #2f4f4f; /* più scuro del 708090 */
     color: white;
     text-decoration: none;
     font-weight: 600;
     text-align: center;
-    transition: background-color 0.3s ease;
-    min-width: 200px;
+    min-width: 220px;
   }
-
-  .button-darkblue {
-    background-color: #001f4d;
-  }
-
-  .button-darkgray {
-    background-color: #708090;
-  }
-  
 
   .button-container {
     display: flex;
     gap: 2rem;
     margin-top: 1.5rem;
     justify-content: center;
+    flex-wrap: wrap; /* utile se lo vedi su schermi piccoli */
   }
 </style>
 
 <div class="button-container">
-  <a href="/materials/highschool/" class="button button-darkblue">
-    🎓 High School Materials
+  <a href="/materials/highschool/" class="button">
+    📘 High School Materials
   </a>
-  <a href="/materials/university/" class="button button-darkgray">
+  <a href="/materials/university/" class="button">
     🎓 University Materials
   </a>
 </div>
