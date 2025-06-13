@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Choose your section:
-
 <style>
   .button {
     display: inline-block;
