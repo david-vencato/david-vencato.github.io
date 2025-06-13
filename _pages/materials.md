@@ -10,8 +10,8 @@ author_profile: true
     display: inline-block;
     padding: 1rem 2rem;
     border-radius: 8px;
-    background-color: #2f4f4f; /* più scuro del 708090 */
-    color: white;
+    background-color: #2f4f4f;
+    color: #ffffff !important;
     text-decoration: none;
     font-weight: 600;
     text-align: center;
@@ -23,7 +23,7 @@ author_profile: true
     gap: 2rem;
     margin-top: 1.5rem;
     justify-content: center;
-    flex-wrap: wrap; /* utile se lo vedi su schermi piccoli */
+    flex-wrap: wrap;
   }
 </style>
 
@@ -35,3 +35,4 @@ author_profile: true
     🎓 University Materials
   </a>
 </div>
+
