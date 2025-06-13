@@ -31,7 +31,7 @@ layout: single
 - **Game Theory (University of Pisa)**  
   *Professor:* Giancarlo Bigi  
   *Academic Year:* 2023/2024  
-  *Language:* Italian
+  *Language:* Italian  
   📎 <a href="/assets/report_gt.pdf" target="_blank" rel="noopener noreferrer">Report</a>  
   📎 <a href="/assets/slides_TdG_Vencato.pdf" target="_blank" rel="noopener noreferrer">Presentation Slides</a>  
      
