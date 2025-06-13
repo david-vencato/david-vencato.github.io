@@ -38,7 +38,7 @@ layout: single
   *Professor:* Mauro Di Nasso  
   *Academic Year:* 2019/2020  
   *Language:* Italian  
-  📎 <a href="/assets/ETI_exercises.pdf" target="_blank" rel="noopener noreferrer">Final Report</a> 
+  📎 <a href="/assets/ETI_exercises.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a> 
 
 ### Philosophy of Mind
 
