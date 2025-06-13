@@ -28,6 +28,14 @@ layout: single
 
 ## 📝 Courses
 
+- **Elements of Set Theory (University of Pisa)**  
+  *Professor:* Tamas Szamueli  
+  *Academic Year:* 2022/2023  
+  *Language:* Italian  
+  📎 <a href="/assets/ist_alg_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>  
+  📎 <a href="/assets/oral_questions.pdf" target="_blank" rel="noopener noreferrer">Oral Exam Questions</a>  
+
+
 - **Machine Learning (University of Pisa)**  
   *Professor:* Marco Romito  
   *Academic Year:* 2022/2023  
@@ -46,10 +54,6 @@ layout: single
   *Language:* Italian  
   📎 <a href="/assets/ETI_exercises.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a> 
 
-### Philosophy of Mind
-
-- 📄 <a href="/assets/notes/dualism-vs-physicalism.pdf" target="_blank" rel="noopener noreferrer">Notes on Dualism and Physicalism</a>
-- 📄 <a href="/assets/notes/mind-lectures.pdf" target="_blank" rel="noopener noreferrer">Lecture-by-Lecture Notes</a>
 
 
 ### Philosophy of Mind
