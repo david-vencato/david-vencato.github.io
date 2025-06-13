@@ -6,21 +6,20 @@ layout: single
 
 ## 📄 Major Projects
 
-- **Bachelor’s Thesis**  
-  *Title:* Logic in Kant's Philosophy  
-  *Year:* 2022  
-  📎 <a href="/assets/pdf/bachelor-thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>  
-  📄 <a href="/assets/pdf/bachelor-abstract.pdf" target="_blank" rel="noopener noreferrer">Abstract</a>
+- **Bachelor’s Thesis (University of Pisa)**  
+  *Title:* Colorazioni di Nodi tramite Quandle  
+  *Language:* Italian  
+  📎 <a href="/assets/pdf/bachelor_thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>  
 
-- **Master’s Thesis**  
-  *Title:* Artificial Intelligence and Natural Language  
-  *Year:* 2023  
-  📎 <a href="/assets/pdf/masters-thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+- **Master’s Thesis (University of Pisa)**  
+  *Title:* Exploring the Optimal Reinsurance Problem: Convex Linearization, Optimal Transport and Case Studies  
+  *Language:* English  
+  📎 <a href="/assets/pdf/Masters_Thesis.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
-- **Semester Project – EPFL**  
-  *Title:* Formal Verification of Modal Logic Systems  
-  *Year:* 2024  
-  📎 <a href="/assets/pdf/epfl-semester-project.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+- **Semester Project (EPFL)**  
+  *Title:* Some Important Aspects of Sustainable Portfolio Allocation 
+  *Language:* English  
+  📎 <a href="/assets/pdf/Semester_Project.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
 
 ---
 
