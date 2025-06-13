@@ -29,7 +29,7 @@ layout: single
 ## 📝 Courses
 
 - **Elements of Set Theory (University of Pisa)**  
-  *Professor:* Tamas Szamueli  
+  *Professor:* Tamas Szamuely  
   *Academic Year:* 2022/2023  
   *Language:* Italian  
   📎 <a href="/assets/ist_alg_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>  
