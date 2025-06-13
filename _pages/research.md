@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 <!-- Qui puoi iniziare a scrivere qualcosa sul tuo ambito di ricerca -->
-For now, I have been acknowledged in the following article:
+For now, I have been acknowledged in the following article:  
 <a href="/assets/AAG25_IME.pdf" target="_blank">Optimal reinsurance from an optimal transport perspective (PDF)</a>
