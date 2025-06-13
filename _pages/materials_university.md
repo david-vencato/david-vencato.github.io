@@ -28,7 +28,7 @@ layout: single
 
 ## 📝 Courses
 
-- **Machine Learning (University of PIsa)**  
+- **Machine Learning (University of Pisa)**  
   *Professor:* Marco Romito  
   *Academic Year:* 2022/2023  
   *Language:* Italian  
