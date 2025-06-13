@@ -4,12 +4,6 @@ permalink: /materials/university/
 layout: single
 ---
 
----
-title: "University Materials"
-permalink: /materials/university/
-layout: single
----
-
 ## 📄 Major Projects
 
 - **Bachelor’s Thesis**  
