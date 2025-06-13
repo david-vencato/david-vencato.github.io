@@ -34,10 +34,11 @@ layout: single
   *Language:* Italian  
   📎 <a href="/assets/Final_Report_ML.pdf" target="_blank" rel="noopener noreferrer">Final Report</a> 
 
-### Philosophy of Language
-
-- 📄 <a href="/assets/notes/pragmatics.pdf" target="_blank" rel="noopener noreferrer">Pragmatics and Ordinary Language</a>
-- 📄 <a href="/assets/notes/grice-austin-searle.pdf" target="_blank" rel="noopener noreferrer">Summary Notes: Grice, Austin, Searle</a>
+- **Elements of Set Theory (University of Pisa)**  
+  *Professor:* Mauro Di Nasso  
+  *Academic Year:* 2019/2020  
+  *Language:* Italian  
+  📎 <a href="/assets/ETI_exercises.pdf" target="_blank" rel="noopener noreferrer">Final Report</a> 
 
 ### Philosophy of Mind
 
