@@ -68,8 +68,8 @@ layout: single
   *Professor:* Dario Trevisan  
   *Academic Year:* 2022/2023  
   *Language:* Italian  
-  📎 <a href="/assets/ist_geo_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
-  📎 <a href="/assets/ist_geo_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
+  📎 <a href="/assets/ist_prob_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
+  📎 <a href="/assets/ist_prob_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
   📎 <a href="/assets/ist_geo_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>   
 
 
