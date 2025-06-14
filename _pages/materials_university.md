@@ -55,7 +55,7 @@ layout: single
   📎 <a href="/assets/MLF_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
   📎 <a href="/assets/MLF_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
   📎 <a href="/assets/exercises_MLF.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>  
-  📎 <a href="/assets/Report_ML_in_Finance.pdf" target="_blank" rel="noopener noreferrer">Project Report (Part 2)</a>  
+  📎 <a href="/assets/Report_ML_in_Finance.pdf" target="_blank" rel="noopener noreferrer">Project Report</a>  
   📎 <a href="/assets/Slides_ML_in_Finance.pdf" target="_blank" rel="noopener noreferrer">Presentation Slides</a>  
   
 
