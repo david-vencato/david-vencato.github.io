@@ -52,8 +52,8 @@ layout: single
   *Professor:* Giuseppe Matera  
   *Academic Year:* 2023/2024  
   *Language:* English  
-  📎 <a href="/assets/ist_geo_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
-  📎 <a href="/assets/ist_geo_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
+  📎 <a href="/assets/MLF_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
+  📎 <a href="/assets/MLF_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
   📎 <a href="/assets/ist_geo_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>
   
 
