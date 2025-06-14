@@ -5,7 +5,8 @@ layout: single
 author_profile: true
 ---
 
-![Conferenza a Pistoia durante la presentazione](/assets/images/brownian_motion.jpg){: .wide-image }  
+{% include figure popup=true image_path="/assets/images/brownian_motion.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}  
+
 
 > *Mathematician in training, fascinated by patterns and proofs. I enjoy sharing my research and making math accessible.*
 
