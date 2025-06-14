@@ -3,6 +3,9 @@ title: "Materials"
 permalink: /materials/
 layout: single
 author_profile: true
+
+header:
+  image: /assets/images/brownian_banner.png
 ---
 
 <style>
