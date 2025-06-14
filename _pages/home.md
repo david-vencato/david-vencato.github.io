@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+![Conferenza a Pistoia durante la presentazione](/assets/images/brownian_motion.jpg){: .wide-image }  
+
 > *Mathematician in training, fascinated by patterns and proofs. I enjoy sharing my research and making math accessible.*
 
 Starting from **August 2025**, I will be a **PhD Research Fellow in Stochastic Analysis and Applications** at the **University of Oslo**, under the supervision of **Professor Giulia Di Nunno**.
