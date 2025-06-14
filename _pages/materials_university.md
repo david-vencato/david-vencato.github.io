@@ -2,6 +2,9 @@
 title: "University Materials"
 permalink: /materials/university/
 layout: single
+
+header:
+  image: /assets/images/brownian_banner.png
 ---
 
 ## 📄 Major Projects
