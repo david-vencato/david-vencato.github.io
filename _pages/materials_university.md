@@ -44,8 +44,7 @@ layout: single
   *Academic Year:* 2023/2024  
   *Language:* English  
   📎 <a href="/assets/int_opt_notes.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes</a>  
-  📎 <a href="/assets/ist_geo_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
-  📎 <a href="/assets/ist_geo_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>  
+  📎 <a href="/assets/int_opt_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>   
   
 
 - **Machine Learning in Finance (EPFL)**  
