@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 
 header:
-  image: /assets/images/homology_ph.png
+  image: /assets/images/brownian_banner.png
 ---
 
 > *Mathematician in training, fascinated by patterns and proofs. I enjoy sharing my research and making math accessible.*
