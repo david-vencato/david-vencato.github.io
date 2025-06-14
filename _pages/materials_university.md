@@ -39,8 +39,8 @@ layout: single
   📎 <a href="/assets/ist_geo_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>  
   
 
-- **Integer Optimization (EPFL)**  
-  *Professor:* Giuseppe Matera  
+- **Integer Optimisation (EPFL)**  
+  *Professor:* Friedrich Eisenbrand    
   *Academic Year:* 2023/2024  
   *Language:* English  
   📎 <a href="/assets/ist_geo_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
