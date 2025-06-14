@@ -57,7 +57,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar : "/assets/images/brownian_motion.jpg"
   bio    : "“A beautiful problem, even if you don’t solve it, keeps you company if you think about it from time to time.” — Ennio De Giorgi"
   links:
     - label: "Email"
