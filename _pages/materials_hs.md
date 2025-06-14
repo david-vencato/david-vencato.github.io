@@ -4,6 +4,15 @@ permalink: /materials/highschool/
 layout: single
 ---
 
+## 🛠️ Projects
+
+- [Handout: Betti Numbers](/assets/files/numeri-betti.pdf){:target="_blank" rel="noopener"}  
+  This handout is based on a conference I held together with three colleagues, organized by the *Accademia dei Giovani per la Scienza*     and the University of Pisa. The talk was aimed at high school students, using informal and intuitive language to introduce Betti         numbers and basic topology concepts.
+
+---
+
+[Download the handout](/assets/files/numeri-betti.pdf){:target="_blank" rel="noopener"}
+
 ## 📎 Links
 
 - <a href="https://olimpiadi.dm.unibo.it" target="_blank" rel="noopener noreferrer">**Italian Mathematical Olympiad**</a>      
