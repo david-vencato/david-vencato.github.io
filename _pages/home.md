@@ -3,10 +3,10 @@ title: "Home"
 permalink: /
 layout: single
 author_profile: true
+
+header:
+  image: /assets/images/brownian_motion.jpg
 ---
-
-{% include figure popup=true image_path="/assets/images/brownian_motion.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}  
-
 
 > *Mathematician in training, fascinated by patterns and proofs. I enjoy sharing my research and making math accessible.*
 
