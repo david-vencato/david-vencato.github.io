@@ -3,6 +3,9 @@ title: "Research"
 permalink: /research/
 layout: single
 author_profile: true
+
+header:
+  image: /assets/images/brownian_banner.png
 ---
 
 <!-- Qui puoi iniziare a scrivere qualcosa sul tuo ambito di ricerca -->
