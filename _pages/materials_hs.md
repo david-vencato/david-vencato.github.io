@@ -2,6 +2,9 @@
 title: "High School Materials"
 permalink: /materials/highschool/
 layout: single
+
+header:
+  image: /assets/images/brownian_banner.png
 ---
 
 ## 🛠️ Projects
