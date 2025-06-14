@@ -61,10 +61,8 @@ layout: single
   *Professor:* Claudio Bonanno  
   *Academic Year:* 2023/2024  
   *Language:* Italian  
-  📎 <a href="/assets/ist_geo_part_1.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 1)</a>  
-  📎 <a href="/assets/ist_geo_part_2.pdf" target="_blank" rel="noopener noreferrer">Handwritten Notes (Part 2)</a>  
-  📎 <a href="/assets/ist_geo_ex.pdf" target="_blank" rel="noopener noreferrer">Exercise Assignments</a>  
-
+  📎 <a href="/assets/exam_seminar_ms.pdf" target="_blank" rel="noopener noreferrer">Exam Seminar</a>  
+  
 
 - **Istituzioni di Probabilità (University of Pisa)**  
   *Professor:* Dario Trevisan  
@@ -79,7 +77,7 @@ layout: single
   *Professor:* Giancarlo Bigi  
   *Academic Year:* 2023/2024  
   *Language:* Italian  
-  📎 <a href="/assets/report_gt.pdf" target="_blank" rel="noopener noreferrer">Final Report</a>  
+  📎 <a href="/assets/report_gt.pdf" target="_blank" rel="noopener noreferrer">Exam Seminar</a>  
   📎 <a href="/assets/slides_TdG_Vencato.pdf" target="_blank" rel="noopener noreferrer">Presentation Slides</a>  
      
 
