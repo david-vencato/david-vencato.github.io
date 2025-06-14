@@ -11,8 +11,6 @@ layout: single
 
 ---
 
-[Download the handout](/assets/files/numeri-betti.pdf){:target="_blank" rel="noopener"}
-
 ## 📎 Links
 
 - <a href="https://olimpiadi.dm.unibo.it" target="_blank" rel="noopener noreferrer">**Italian Mathematical Olympiad**</a>      
