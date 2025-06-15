@@ -105,6 +105,10 @@ head_custom: |
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 
 analytics:
-  provider: "custom"
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ENHF63KPJ2"
+    anonymize_ip: false # o true se vuoi anonimizzare gli IP
+
 
 
