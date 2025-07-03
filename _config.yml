@@ -110,7 +110,5 @@ analytics:
     tracking_id: "G-ENHF63KPJ2"
     anonymize_ip: false # o true se vuoi anonimizzare gli IP
 
-include:
-  - google006d9acb38e1ec15.html
 
 
