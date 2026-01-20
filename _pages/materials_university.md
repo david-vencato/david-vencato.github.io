@@ -36,7 +36,9 @@ header:
 - **Rough Paths (Univerisiy of Oslo)**    
   *Academic Year:* 2025/2026  
   *Language:* English  
-  📎     
+  📎 Handwritten notes based on the lecture notes "Rough Paths Theory" by Andrew L. Allan:
+      <a href="/assets/Allan Notes-1-43.pdf" target="_blank" rel="noopener noreferrer">Part 1</a>  
+      <a href="/assets/Allan Notes-44-91.pdf" target="_blank" rel="noopener noreferrer">Part 2</a>
   📎 
   
 
