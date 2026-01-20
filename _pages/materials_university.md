@@ -37,8 +37,8 @@ header:
   *Academic Year:* 2025/2026  
   *Language:* English  
   📎 Handwritten notes based on the lecture notes "Rough Paths Theory" by Andrew L. Allan:
-      <a href="/assets/Allan Notes-1-43.pdf" target="_blank" rel="noopener noreferrer">Part 1</a>, <a href="/assets/Allan Notes-44-91.pdf" target="_blank" rel="noopener noreferrer">Part 2</a>
-  📎 Presentation for the exam based on the paper "Rough Stochastic Filtering" by Fabio Bugini, Peter Friz, Khoa Lê and Huilin Zhang: <a href="/assets/rough_stochastic_filtering_slides_finale.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+      <a href="/assets/Allan Notes-1-43.pdf" target="_blank" rel="noopener noreferrer">Part 1</a>, <a href="/assets/Allan Notes-44-91.pdf" target="_blank" rel="noopener noreferrer">Part 2</a>  
+  📎 Presentation for the exam based on the paper "Rough Stochastic Filtering" by Fabio Bugini, Peter Friz, Khoa Lê and Huilin Zhang: <a href="/assets/rough_stochastic_filtering_slides_finale.pdf" target="_blank" rel="noopener noreferrer">PDF</a>  
   
 
 ---
