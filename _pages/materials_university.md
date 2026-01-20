@@ -31,7 +31,18 @@ header:
   
 ---
 
-## 📝 Courses
+## 📝 Phd Courses 
+
+- **Rough Paths (Univerisiy of Oslo)**    
+  *Academic Year:* 2025/2026  
+  *Language:* English  
+  📎     
+  📎 
+  
+
+---
+
+## 📝 Bachelor's and Master's Courses
 
 - **Martingales in Finance (EPFL)**  
   *Professor:* Michael Schmutz  
